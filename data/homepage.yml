@@ -143,42 +143,85 @@ client_and_work:
       alt: "Algorithms and data structures"
 
   works:
-    - title: "Pet Clinic"
-      description: "Application designed for pet clinics to manage their pet owner's clients. This is a project created back-end app with Java, Spring and MySQL and with a front-end app with VueJS and Bootstrap"
-      techLabels: " Java,Spring,MySQL"
+    - title: "Personal library"
+      description: "A virtual library where are listed all the books bought and their total price
+      You can manage the books bought and see the total money spent."
+      techLabels: "HTML,CSS,Javascript"
       projectButton:
         icon: "icon-arrow-right"
         btnText: "Github project"
-        URL: "https://github.com/puncha/petclinic"
+        URL: "https://github.com/AlexandraCodescu/Personal-Library-App"
       demoButton:
         icon: "icon-arrow-right"
         btnText: "Live demo"
-        URL: "https://java-petclinic.herokuapp.com/"
+        URL: "https://final-project-solved.alexandracodesc.repl.co/"
       image:
-        x: "img/works/pet-clinic-1.png"
-        _2x: "img/works/radity-finance@2x.jpg"
+        x: "img/works/personal-library.png"
+        _2x: "img/works/personal-library.png"
       is_even: true
 
-    - title: "Swiss Fintech Website"
-      description: "The Swiss Finance + Technology Association is the leading FinTech hub in Switzerland."
-      button:
-        icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+    - title: "Facebook clone"
+      description: "A static app with a single page that mimics the real Facebook app."
+      techLabels: "HTML,CSS"
+      projectButton:
+          icon: "icon-arrow-right"
+          btnText: "Github project"
+          URL: "https://github.com/AlexandraCodescu/Facebook-Clone"
+      demoButton:
+          icon: "icon-arrow-right"
+          btnText: "Live demo"
+          URL: "https://facebook-clone.alexandracodesc.repl.co/"
       image:
-        x: "img/works/swissfintech.jpg"
-        _2x: "img/works/swissfintech@2x.jpg"
+          x: "img/works/facebook-clone.png"
+          _2x: "img/works/facebook-clone.png"
       is_even: false
 
-    - title: "Robo Advisor"
-      description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
-      button:
+    - title: "Quiz app"
+      description: "A quiz app that fetches general knowledge questions and answers from a public API."
+      techLabels: "VueJs,Axios"
+      projectButton:
         icon: "icon-arrow-right"
-        btnText: "Case Study"
-        URL: "#"
+        btnText: "Github project"
+        URL: "https://github.com/AlexandraCodescu/Quiz-App"
+      demoButton:
+        icon: "icon-arrow-right"
+        btnText: "Live demo"
+        URL: "https://quiz-app-619.herokuapp.com/setup/step-one"
       image:
-        x: "img/works/robo-advisor.jpg"
-        _2x: "img/works/robo-advisor@2x.jpg"
+        x: "img/works/quiz-app3.png"
+        _2x: "img/works/quiz-app3.png"
+      is_even: true
+
+    - title: "Expense tracker"
+      description: "An app where you can track your expenses and see charts of your expenses by category, merchants and price."
+      techLabels: "VueJs,Axios"
+      projectButton:
+        icon: "icon-arrow-right"
+        btnText: "Github project"
+        URL: "https://github.com/AlexandraCodescu/Expense-Tracker-Advanced"
+      demoButton:
+        icon: "icon-arrow-right"
+        btnText: "Live demo"
+        URL: "https://sleepy-cliffs-84117.herokuapp.com/"
+      image:
+        x: "img/works/expense-tracker.png"
+        _2x: "img/works/expense-tracker.png"
+      is_even: false
+
+    - title: "Confy you"
+      description: "An online shop where you can buy home products that has a shopping cart and a payment processor integrated"
+      techLabels: "VueJs,Axios"
+      projectButton:
+        icon: "icon-arrow-right"
+        btnText: "Github project"
+        URL: "https://github.com/AlexandraCodescu/Confy-You-Shop"
+      demoButton:
+        icon: "icon-arrow-right"
+        btnText: "Live demo"
+        URL: "https://confy-you.netlify.app/"
+      image:
+        x: "img/works/confy-you.png"
+        _2x: "img/works/confy-you.png"
       is_even: true
 
 # testimonial

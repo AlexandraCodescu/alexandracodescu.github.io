@@ -70,8 +70,16 @@
                 <p class="lead">
                     {{ .description }}
                 </p>
-                <a href="{{ .button.URL | absURL }}" class="btn btn-primary"
-                >{{ .button.btnText }}<i class="{{ .button.icon }}"></i
+                <p class="lead">
+                    {{ range $label := split .techLabels "," }}
+                    <span class="bg-primary-red rounded text-white p-2 mx-1">{{ $label }}</span>
+                    {{end}}
+                </p>
+                <a href="{{ .projectButton.URL | absURL }}" target="_blank" class="btn btn-primary"
+                >{{ .projectButton.btnText }}<i class="{{ .projectButton.icon }}"></i
+                ></a>
+                <a href="{{ .demoButton.URL | absURL }}" target="_blank" class="btn btn-primary"
+                >{{ .demoButton.btnText }}<i class="{{ .demoButton.icon }}"></i
                 ></a>
             </div>
             {{ end }}
