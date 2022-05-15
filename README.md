@@ -1,1 +1,2 @@
-<h2>Alexandra Codescu Portfolio</h2>
+## Alexandra Codescu Portfolio
+### Personal website: [Portfolio](https://alexandracodescu.github.io/)
