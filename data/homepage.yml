@@ -40,10 +40,14 @@ about:
     My area of focus lies in building web products. I enjoy designing and coding the UI as much as
     talking with users to iterate and improve the experiences that reach business goals.
     </p>'
-  button:
+  aboutButton:
     icon: "icon-smile-fill"
     btnText: "About Me"
     URL: "https://www.linkedin.com/in/alexandra-codescu/"
+  cvButton:
+    icon: "icon-arrow-right"
+    btnText: "Download CV"
+    URL: "Resume-AlexandraCodescu.pdf"
   image:
     x: "img/who-am-i/user3.png"
     _2x: "img/who-am-i/user3.png"
