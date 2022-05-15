@@ -166,7 +166,7 @@ client_and_work:
 
     - title: "Facebook clone"
       description: "A static app with a single page that mimics the real Facebook app."
-      techLabels: "HTML,CSS"
+      techLabels: "HTML,CSS,Bootstrap"
       projectButton:
           icon: "icon-arrow-right"
           btnText: "Github project"
@@ -182,7 +182,7 @@ client_and_work:
 
     - title: "Quiz app"
       description: "A quiz app that fetches general knowledge questions and answers from a public API."
-      techLabels: "VueJs,Axios"
+      techLabels: "VueJs,Axios,Bootstrap"
       projectButton:
         icon: "icon-arrow-right"
         btnText: "Github project"
@@ -198,7 +198,7 @@ client_and_work:
 
     - title: "Expense tracker"
       description: "An app where you can track your expenses and see charts of your expenses by category, merchants and price."
-      techLabels: "VueJs,Axios"
+      techLabels: "VueJs,Axios,Bootstrap"
       projectButton:
         icon: "icon-arrow-right"
         btnText: "Github project"
@@ -214,7 +214,7 @@ client_and_work:
 
     - title: "Confy you"
       description: "An online shop where you can buy home products that has a shopping cart and a payment processor integrated"
-      techLabels: "VueJs,Axios"
+      techLabels: "VueJs,Axios,Bootstrap,Firebase"
       projectButton:
         icon: "icon-arrow-right"
         btnText: "Github project"
