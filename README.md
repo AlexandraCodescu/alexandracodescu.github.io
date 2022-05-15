@@ -1,1 +1,1 @@
-<h1>Alexandra Codescu Portfolio</h1>
+<h2>Alexandra Codescu Portfolio</h2>
