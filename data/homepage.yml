@@ -101,31 +101,31 @@ client_and_work:
     - logo:
         link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
         x: "https://img.icons8.com/color/344/javascript--v1.png"
-        _2x: "img/clients/earth-2@2x.png"
+        _2x: "https://img.icons8.com/color/344/javascript--v1.png"
       alt: "Javascript"
 
     - logo:
         link: "https://vuejs.org/"
         x: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"
-        _2x: "img/clients/asgardia@2x.png"
+        _2x: "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/344/external-vuejs-an-open-source-javascript-framework-for-building-user-interfaces-and-single-page-applications-logo-shadow-tal-revivo.png"
       alt: "VueJS"
 
     - logo:
         link: "https://en.wikiversity.org/wiki/HTML"
         x: "https://img.icons8.com/color/344/html-5--v1.png"
-        _2x: "img/clients/goldline@2x.png"
+        _2x: "https://img.icons8.com/color/344/html-5--v1.png"
       alt: "HTML"
 
     - logo:
         link: "https://en.wikiversity.org/wiki/CSS"
         x: "https://img.icons8.com/color/344/css3.png"
-        _2x: "img/clients/kanba@2x.png"
+        _2x: "https://img.icons8.com/color/344/css3.png"
       alt: "CSS"
 
     - logo:
         link: "https://getbootstrap.com/"
         x: "https://img.icons8.com/color/344/bootstrap.png"
-        _2x: "img/clients/zoo-tv@2x.png"
+        _2x: "https://img.icons8.com/color/344/bootstrap.png"
       alt: "Bootstrap"
 
     #    - logo:
@@ -137,13 +137,13 @@ client_and_work:
     - logo:
         link: "https://firebase.google.com/?gclsrc=ds&gclsrc=ds"
         x: "https://img.icons8.com/color/344/firebase.png"
-        _2x: "img/clients/ztos@2x.png"
+        _2x: "https://img.icons8.com/color/344/firebase.png"
       alt: "Firebase"
 
     - logo:
         link: "https://en.wikiversity.org/wiki/Data_Structures_and_Algorithms"
         x: "https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"
-        _2x: "img/clients/ztos@2x.png"
+        _2x: "https://img.icons8.com/external-flaticons-flat-flat-icons/344/external-algorithms-data-analytics-flaticons-flat-flat-icons.png"
       alt: "Algorithms and data structures"
 
   works:
@@ -168,16 +168,16 @@ client_and_work:
       description: "A static app with a single page that mimics the real Facebook app."
       techLabels: "HTML,CSS,Bootstrap"
       projectButton:
-          icon: "icon-arrow-right"
-          btnText: "Github project"
-          URL: "https://github.com/AlexandraCodescu/Facebook-Clone"
+        icon: "icon-arrow-right"
+        btnText: "Github project"
+        URL: "https://github.com/AlexandraCodescu/Facebook-Clone"
       demoButton:
-          icon: "icon-arrow-right"
-          btnText: "Live demo"
-          URL: "https://facebook-clone.alexandracodesc.repl.co/"
+        icon: "icon-arrow-right"
+        btnText: "Live demo"
+        URL: "https://facebook-clone.alexandracodesc.repl.co/"
       image:
-          x: "img/works/facebook-clone.png"
-          _2x: "img/works/facebook-clone.png"
+        x: "img/works/facebook-clone.png"
+        _2x: "img/works/facebook-clone.png"
       is_even: false
 
     - title: "Quiz app"
